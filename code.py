@@ -51,3 +51,8 @@ sample_input_grid_3 = [[1, 0, 1, 0, 1],
 print(islands(sample_input_grid_1))
 print(islands(sample_input_grid_2))
 print(islands(sample_input_grid_3))
+
+
+# sample_output_grid_1 = 3
+# sample_output_grid_1 = 10
+# sample_output_grid_1 = 11
