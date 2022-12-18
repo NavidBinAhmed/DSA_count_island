@@ -16,5 +16,5 @@ jobs:
     - name: Build & Push Image
       run: |
         echo "${{ secrets.DOCKERPW }}" | docker login -u "navidbinahmed" --password-stdin
-        docker image build -t navidbinahmed/a3:island .
-        docker push navidbinahmed/a3:island
+        docker image build -t navidbinahmed/island:count .
+        docker push navidbinahmed/island:count
