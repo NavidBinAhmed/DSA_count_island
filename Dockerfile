@@ -1,7 +1,7 @@
 FROM python:3.9
 
-RUN mkdir/ImagePrediction
-WORKDIR /ImagePrediction
+RUN mkdir/code
+WORKDIR /code
 
 COPY requirements.txt requirements.txt
 RUN pip install -r requirements.txt
