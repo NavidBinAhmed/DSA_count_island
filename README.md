@@ -5,6 +5,8 @@ Adjacent lands are connected horizontally and vertically. The entire region is a
 
 Solved on 17 December 2022.
 
+Demo output for 3 input grid:
+![image](https://user-images.githubusercontent.com/45857107/208404814-58701ef4-f100-4ab9-b222-14053524c0b5.png)
 
 
 Thank you.
